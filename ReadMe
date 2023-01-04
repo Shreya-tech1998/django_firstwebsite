@@ -1,0 +1,5 @@
+This is a basic web application made using the Django framework
+When the user runs this application the first thing they would see is the home screen (where various image files and icons have been imported)
+From the home page the user can navigate to the accounts page, the profile page and the contact page.
+The user can login using their username and password
+The apps created for this project are about, authentication, contact, employee, index
